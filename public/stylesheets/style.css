@@ -31,3 +31,15 @@ body {
   right: unset;
   transform: translate(-50%, 0);
 }
+
+.ac-container {
+  direction: rtl;
+}
+
+.ac-textBlock {
+  direction: rtl;
+}
+
+.webchat__send-box {
+  direction: rtl;
+}

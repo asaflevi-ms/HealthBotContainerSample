@@ -43,3 +43,14 @@ body {
 .webchat__send-box {
   direction: rtl;
 }
+.webchat__basic-transcript {
+  background-image: 
+    url('https://www.maccabi4u.co.il/new/Style/Images/Eligibility/EligibbilityLobby/pink-bg-desktop.svg'),
+    url('https://www.maccabi4u.co.il/new/Style/Images/PageNotFound/circles-1.svg');
+  background-size: contain, 10%;
+  background-repeat: no-repeat, no-repeat;
+  background-position: bottom, top right;
+} 
+.webchat__bubble__content {
+  direction: rtl;
+}
